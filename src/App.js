@@ -5,7 +5,12 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   return (
     <div className='backgroundclr'>
+      
+      <image src=""></image>
       <h1 className="text-center p-5">....under construction !!!</h1>
+      <div className='text-center'>
+        <img src="https://c.tenor.com/zm7nNP-oIXcAAAAM/cat-work.gif" alt="funny cat"></img>
+      </div>
       <h3 className="text-center p-5">My projects :</h3>
       <ul className="text-center p-1">
         <a href="https://the-90s-store.herokuapp.com/" target="_blank">E-commerce - Redux</a>
